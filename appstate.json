@@ -1,9 +1,101 @@
-hello: "hello world"
-
-}
-The appstate.json file is used to store the app state.
-The appstate.json file is created automatically when you run the bot for the first time.
-The appstate.json file is located in the same folder as the main file.
-The appstate.json file is automatically updated when you run the bot.
-The appstate.json file is not tracked by Git.
-Note: The appstate.json file is not included in the repository.
+[
+    {
+        "key": "dbln",
+        "value": "%7B%2261555318201997%22%3A%224phfneZB%22%2C%2261555169777484%22%3A%22B4B3Mxha%22%2C%22100090050689215%22%3A%22ozD9O4jS%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "datr",
+        "value": "YjeQZYGzXdo_iVmMM3IN1LUW",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "sb",
+        "value": "YjeQZaBsibOyS7jlwOY3yap9",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100090050689215",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "xs",
+        "value": "19%3AslSiPJ048BU0xw%3A2%3A1707551940%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B675x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "locale",
+        "value": "fr_FR",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101231328%3BT%3A28653865",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2537%3Btimestamp%3A1719231916",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2024-06-24T12:25:22.720Z",
+        "lastAccessed": "2024-06-24T12:25:22.720Z"
+    }
+]
